@@ -9,3 +9,6 @@
     pip install -r requirements.txt
     
     Chrome Driver : your Chrome Version
+
+## 실행 화면
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/59524278/170020036-517b30fd-34f1-488f-bb2a-339971fbd960.gif)
