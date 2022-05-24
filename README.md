@@ -6,3 +6,4 @@
 ## setting
     pip install -r requirements.txt
     
+    Chrome Driver : your Chrome Version
