@@ -9,4 +9,3 @@ Password = input('비밀번호(ex 0000) : ')
 
 diagosis = selfdiaconsis(CityProvince, SchoolLevel, SchoolName, UserName, BirthDate, Password)
 diagosis.test()
-
