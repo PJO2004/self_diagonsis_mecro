@@ -3,14 +3,6 @@ from selenium import webdriver
 from selenium.webdriver.support.select import Select
 
 
-#CityProvince = "경기도"  # 시/도
-#SchoolLevel = "고등학교"  # 학교급
-#SchoolName = "한봄고등학교"  # 학교 이름
-#UserName = "박정원"  # 이름
-#BirthDate = "041027"  # 생년월일
-#Password = "1234"  # 비밀번호
-
-
 class selfdiaconsis():
     def __init__(self, CityProvince, SchoolLevel, SchoolName, UserName, BirthDate, Password):
         self.CityProvince = CityProvince
